@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LightsUp</string>
+    <string name="permission_camera_rationale">You need to grant permission to use this app!</string>
+    <string name="ok">Okay</string>
+</resources>
